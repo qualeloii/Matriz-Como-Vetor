@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1554423787 source:c:\users\eloi câmara\documents\c_c++\matriz_como_vetor\arquivos.c
+	<stdio.h>
+	<stdlib.h>
+
+1554467123 source:c:\users\eloi câmara\documents\c_c++\matriz_como_vetor\vetor_matriz.c
+	<stdio.h>
+	<stdlib.h>
+
+1554468114 source:c:\users\eloi câmara\documents\c_c++\matriz_como_vetor\programa.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Header.h"
+
+1554466666 c:\users\eloi câmara\documents\c_c++\matriz_como_vetor\header.h
+	<stdio.h>
+	<stdlib.h>
+
